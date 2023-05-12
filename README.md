@@ -6,7 +6,7 @@ Here you will find some projects I have worked on in the past or recently, and p
 
 ## About Me
 
-I'm a Senior/Staff/Principal level Software Engineer/Architect with over 31 years of experience now in software lifecycle development in the full-stack. I've worked on my Web Apps, Desktop Apps/Tools and Game Apps/Tools over the years, and take a great deal of pride in doing a job well-done by creating code which is efficient, legible, extensible and intuitive.
+I'm a Senior/Staff/Principal level Software Engineer/Architect with over 31 years of experience now in software lifecycle development in the full-stack. I've worked on many Web Apps, Desktop Apps/Tools and Game Apps/Tools over the years, and take a great deal of pride in doing a job well-done by creating code which is efficient, legible, extensible and intuitive.
 
 ## Current Passion
 
